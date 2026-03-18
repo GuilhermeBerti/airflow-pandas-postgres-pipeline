@@ -189,17 +189,6 @@ Evita erros como:
 
 ---
 
-## 🚀 Possíveis Melhorias
-
-* 🔹 Particionamento de dados no Parquet
-* 🔹 Incremental load
-* 🔹 Integração com Slack para alertas
-* 🔹 Uso de Delta Lake
-* 🔹 Data Quality com Great Expectations
-* 🔹 Monitoramento com métricas (DataOps)
-
----
-
 ## 💬 Sobre o Projeto
 
 Este projeto foi desenvolvido com foco em demonstrar habilidades práticas em:
